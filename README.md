@@ -23,12 +23,12 @@ Revisting the graphic from Lab 2...
 Download the Seattle Housing dataset, available at: [http://math.montana.edu/ahoegh/teaching/stat408/datasets/SeattleHousing.csv](http://math.montana.edu/ahoegh/teaching/stat408/datasets/SeattleHousing.csv).
 
 #### a. (4 points)
-Using base R plots, create ~~two~~ one figure~~s~~ with at least one showing the relationship between a two variable in the data set with the housing price.
+Using base R plots, create ~~two~~ one figure~~swith at least one~~ showing the relationship between that ~~two~~ variable ~~in the data set with the~~ and housing price.
 
 Summarize the take away points from your figure. These summaries should be 3-4 sentences and provide all of the context for your graphics so that an outside observer could understand the story you are illustrating.
 
 
 #### b. (4 points)
-Using ggplot2, create ~~two~~ one figure~~s~~ with at least one showing the relationship between a two variable in the data set with the housing price.
+Using ggplot2, create ~~two~~ one figure~~swith at least one~~ showing the relationship between that ~~two~~ variable ~~in the data set with the~~ and housing price.
 
 Summarize the take away points from your figures. These summaries should be 3-4 sentences and provide all of the context for your graphics so that an outside observer could understand the story you are illustrating.
