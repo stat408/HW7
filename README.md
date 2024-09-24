@@ -1,34 +1,32 @@
 # HW7
 
+All thoughtful answers will receive full credit.
 
-Please use D2L to turn in both the Word or PDF output and your R Markdown file in.
+### Q1 (1 points)
 
-### Q1. (4 points)
-Techsmith relay [http://ato.montana.edu/technologies/techsmith/](http://ato.montana.edu/technologies/techsmith/), is a screen capture video recording software that is free for students. Record a ~ 1 minute video screen capture that includes you talking about a figure created from the dataset you are using for your project. You can share a link to the video (or download the video and turn it in).
+What has been your favorite part of this class?
 
-### Q2. (6 points)
+### Q2 (1 points)
 
-Write a function called activity() to determine what activity to do based on the temperature. The function takes the following input:
+What has been your least favorite part of this class?
 
-- temperature in Farenheit
+### Q3 (1 points)
 
-and then based on the temperature outputs
+How is the balance between video lectures and Tuesday in class exercises?
 
-- < 0: Sit by Fire
+### Q4 (1 points)
 
-- 0 - 40: Ski
+What, if anything, can be improved to facilitate your learning?
 
-- >40 - 70: Bike
+### Q5 (1 points)
 
-- >70 : Raft
+At the end of the course we will have time for some advanced topics. Possible topics include:
 
-To verify your function works, run the following code chunks (known as unit tests)
+1. Map making
+2. Predictive Modeling
+3. Animated graphics
+4. SQL & databases
+5. Creating R packages
+6. Other languages (python / Julia) in R studio
 
-```
-activity(-5)
-
-activity(40)
-
-activity(71)
-
-```
+Please rank these in order and list anything else you'd like to learn.
